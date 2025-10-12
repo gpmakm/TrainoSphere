@@ -1,0 +1,201 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the first step in disaster management?",
+    "options": ["Mitigation", "Preparedness", "Response", "Recovery"],
+    "type": "MCQ",
+    "correctAnswers": ["Mitigation"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer1"
+  },
+  {
+    "id": "q2",
+    "question": "Which of the following is a natural disaster?",
+    "options": ["Flood", "Chemical leak", "Building collapse", "Nuclear explosion"],
+    "type": "MCQ",
+    "correctAnswers": ["Flood"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer2"
+  },
+  {
+    "id": "q3",
+    "question": "Which Indian agency is responsible for disaster management?",
+    "options": ["ISRO", "NDMA", "NDRF", "IMD"],
+    "type": "MCQ",
+    "correctAnswers": ["NDMA"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer3"
+  },
+  {
+    "id": "q4",
+    "question": "The Disaster Management Act in India was enacted in which year?",
+    "options": ["2001", "2003", "2005", "2007"],
+    "type": "MCQ",
+    "correctAnswers": ["2005"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer4"
+  },
+  {
+    "id": "q5",
+    "question": "Which phase involves restoring normal life after a disaster?",
+    "options": ["Mitigation", "Preparedness", "Response", "Recovery"],
+    "type": "MCQ",
+    "correctAnswers": ["Recovery"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer5"
+  },
+  {
+    "id": "q6",
+    "question": "Which of the following is a man-made disaster?",
+    "options": ["Earthquake", "Cyclone", "Tsunami", "Oil spill"],
+    "type": "MCQ",
+    "correctAnswers": ["Oil spill"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer6"
+  },
+  {
+    "id": "q7",
+    "question": "What is the full form of NDMA?",
+    "options": ["National Disaster Management Authority", "National Disaster Mitigation Agency", "Natural Disaster Management Agency", "National Disaster Monitoring Association"],
+    "type": "MCQ",
+    "correctAnswers": ["National Disaster Management Authority"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer7"
+  },
+  {
+    "id": "q8",
+    "question": "Which organization is responsible for early warning of cyclones in India?",
+    "options": ["IMD", "NDRF", "NDMA", "ISRO"],
+    "type": "MCQ",
+    "correctAnswers": ["IMD"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer8"
+  },
+  {
+    "id": "q9",
+    "question": "Which of the following is not part of the disaster management cycle?",
+    "options": ["Mitigation", "Prevention", "Execution", "Recovery"],
+    "type": "MCQ",
+    "correctAnswers": ["Execution"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer9"
+  },
+  {
+    "id": "q10",
+    "question": "What does NDRF stand for?",
+    "options": ["National Disaster Rescue Force", "National Disaster Relief Fund", "National Disaster Response Force", "National Disaster Rehabilitation Force"],
+    "type": "MCQ",
+    "correctAnswers": ["National Disaster Response Force"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer10"
+  },
+  {
+    "id": "q11",
+    "question": "What is the main goal of mitigation in disaster management?",
+    "options": ["To provide rescue operations", "To reduce disaster impact", "To rebuild infrastructure", "To provide relief funds"],
+    "type": "MCQ",
+    "correctAnswers": ["To reduce disaster impact"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer11"
+  },
+  {
+    "id": "q12",
+    "question": "Which of the following disasters is caused by tectonic plate movement?",
+    "options": ["Earthquake", "Cyclone", "Flood", "Drought"],
+    "type": "MCQ",
+    "correctAnswers": ["Earthquake"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer12"
+  },
+  {
+    "id": "q13",
+    "question": "What is the primary aim of the Response phase?",
+    "options": ["Prevent future disasters", "Save lives and property", "Rebuild infrastructure", "Raise awareness"],
+    "type": "MCQ",
+    "correctAnswers": ["Save lives and property"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer13"
+  },
+  {
+    "id": "q14",
+    "question": "Who is the chairman of the NDMA in India?",
+    "options": ["Prime Minister of India", "President of India", "Home Minister", "Defence Minister"],
+    "type": "MCQ",
+    "correctAnswers": ["Prime Minister of India"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer14"
+  },
+  {
+    "id": "q15",
+    "question": "Which of the following disasters can be predicted accurately?",
+    "options": ["Earthquake", "Cyclone", "Tsunami", "Volcanic eruption"],
+    "type": "MCQ",
+    "correctAnswers": ["Cyclone"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer15"
+  },
+  {
+    "id": "q16",
+    "question": "What is the first priority during a disaster response?",
+    "options": ["Restoration of economy", "Rebuilding infrastructure", "Saving lives", "Damage assessment"],
+    "type": "MCQ",
+    "correctAnswers": ["Saving lives"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer16"
+  },
+  {
+    "id": "q17",
+    "question": "Which ministry in India oversees disaster management policies?",
+    "options": ["Ministry of Defence", "Ministry of Home Affairs", "Ministry of Environment", "Ministry of Health"],
+    "type": "MCQ",
+    "correctAnswers": ["Ministry of Home Affairs"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer17"
+  },
+  {
+    "id": "q18",
+    "question": "What is the safest place to take cover during an earthquake?",
+    "options": ["Near windows", "Under a strong table", "Under hanging lights", "In the lift"],
+    "type": "MCQ",
+    "correctAnswers": ["Under a strong table"],
+    "category": "Disaster Management",
+    "weightage": 5
+  },
+  {
+    "id": "q19",
+    "question": "Which disaster often leads to landslides in hilly regions?",
+    "options": ["Cyclone", "Flood", "Earthquake", "Drought"],
+    "type": "MCQ",
+    "correctAnswers": ["Earthquake"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer19"
+  },
+  {
+    "id": "q20",
+    "question": "What is the best way to reduce disaster risk?",
+    "options": ["Ignoring warnings", "Community preparedness", "Waiting for rescue", "Relying on luck"],
+    "type": "MCQ",
+    "correctAnswers": ["Community preparedness"],
+    "category": "Disaster Management",
+    "weightage": 5,
+    "answerName":"answer20"
+  }
+]

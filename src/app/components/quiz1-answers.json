@@ -1,0 +1,135 @@
+{
+  "programTitle": "Disaster Management Training Program",
+  "objective": "To train candidates on disaster preparedness, response, recovery, and mitigation strategies for different types of disasters.",
+  "duration": "7 Days",
+  "conductedBy": "National Disaster Management Authority (NDMA)",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "Introduction to Disaster Management",
+      "duration": "1 Day",
+      "topics": [
+        "Definition and types of disasters",
+        "Disaster Management Cycle: Mitigation, Preparedness, Response, Recovery",
+        "Roles and responsibilities of individuals and communities",
+        "Overview of NDMA, NDRF, and local authorities"
+      ],
+      "precautions": [
+        "Always stay informed about disaster alerts from official sources",
+        "Prepare a family emergency plan and practice it regularly"
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Earthquake Preparedness",
+      "duration": "1 Day",
+      "topics": [
+        "Causes and effects of earthquakes",
+        "Safety measures during and after an earthquake",
+        "Structural safety and retrofitting of buildings",
+        "Community drills and evacuation planning"
+      ],
+      "precautions": [
+        "Do not run during tremors; Drop, Cover, and Hold",
+        "Avoid standing near windows, mirrors, and heavy furniture",
+        "After shaking stops, move to open space safely",
+        "Keep emergency kits ready (torch, water, first aid, radio)"
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Flood Safety and Management",
+      "duration": "1 Day",
+      "topics": [
+        "Flood causes and forecasting methods",
+        "Early warning systems and evacuation routes",
+        "Post-flood sanitation and health precautions",
+        "Rescue and relief operations overview"
+      ],
+      "precautions": [
+        "Avoid walking or driving through floodwaters",
+        "Move valuables and documents to higher places",
+        "Disconnect electrical appliances during floods",
+        "Drink only clean or boiled water after flooding"
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Fire Safety and Evacuation",
+      "duration": "1 Day",
+      "topics": [
+        "Types of fire and extinguishers",
+        "How to use a fire extinguisher (PASS method)",
+        "Emergency exits and assembly points",
+        "Fire prevention in residential and workplace areas"
+      ],
+      "precautions": [
+        "Do not use elevators during fire emergencies",
+        "Crawl low under smoke to avoid inhalation",
+        "Know at least two exit routes from any building",
+        "Regularly inspect electrical wiring and gas connections"
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "Cyclone and Storm Preparedness",
+      "duration": "1 Day",
+      "topics": [
+        "Cyclone formation and classification",
+        "Identifying safe shelters and cyclone-resistant structures",
+        "Early warning communication methods",
+        "Post-cyclone relief and rehabilitation"
+      ],
+      "precautions": [
+        "Stay indoors during heavy winds",
+        "Secure loose items outside the house",
+        "Store food, water, and medicines for at least 3 days",
+        "Avoid standing near glass windows during storms"
+      ]
+    },
+    {
+      "id": "m6",
+      "title": "Industrial and Chemical Disaster Response",
+      "duration": "1 Day",
+      "topics": [
+        "Understanding industrial hazards",
+        "Emergency procedures for chemical leaks",
+        "Use of PPE (Personal Protective Equipment)",
+        "Decontamination and first-aid for chemical exposure"
+      ],
+      "precautions": [
+        "Avoid direct contact with spilled chemicals",
+        "Cover nose and mouth with wet cloth during gas leaks",
+        "Follow evacuation routes marked by safety teams",
+        "Never re-enter affected areas until declared safe"
+      ]
+    },
+    {
+      "id": "m7",
+      "title": "Mock Drills, Assessment, and Certification",
+      "duration": "1 Day",
+      "topics": [
+        "Practical drills for earthquake, fire, and flood",
+        "Use of rescue tools and first-aid kits",
+        "Performance evaluation and feedback",
+        "Distribution of participation certificates"
+      ],
+      "precautions": [
+        "Take all drills seriously — treat them as real scenarios",
+        "Listen carefully to instructions from coordinators",
+        "Maintain calm and help others during exercises"
+      ]
+    }
+  ],
+  "assessment": {
+    "method": "Quiz + Practical Drill Evaluation",
+    "passingCriteria": "Minimum 70% in quiz and full participation in drills",
+    "certification": "Certificate of Disaster Preparedness and Response"
+  },
+  "importantNotes": [
+    "Every trainee must complete all modules to receive certification.",
+    "Attendance is mandatory for at least 90% of total sessions.",
+    "Medical fitness certificate may be required for field activities.",
+    "Emergency contact numbers should be saved by all trainees."
+  ]
+}
