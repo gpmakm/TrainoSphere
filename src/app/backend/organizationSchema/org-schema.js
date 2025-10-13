@@ -7,3 +7,4 @@ const orgSchema=new mongoose.Schema({
     contactNo:Number
 })
 const orgmodel=new mongoose.model('orgmodel',orgSchema)
+export default orgmodel;

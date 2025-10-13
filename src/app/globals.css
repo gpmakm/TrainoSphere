@@ -89,3 +89,16 @@ justify-self: center;
 .cardTitle{
     color: darkred;
 }
+.recCard{
+    width: 15vw;
+    height: auto;
+    padding: 7px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    color: white;
+    margin: 8px;
+}
+.recCardContainer{
+    display: flex;
+    flex-direction: column;
+}

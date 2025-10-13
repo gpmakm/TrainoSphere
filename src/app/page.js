@@ -37,6 +37,7 @@ export default function Home() {
         <Card CardTitle="Get Trained" CardDescription="Register your organization to manage and coordinate disaster response efforts."/>
         <Card CardTitle="Know your speciality and get recommendation" CardDescription="Login to access your account and manage your training modules or organization details."/>
         </div>
+        <a href="/recommendations" style={{width:'auto', height:'auto',padding:8, backgroundColor:'darkred',color:'white',border:'2px solid darkred',margin:15}}>Get recommendations</a>
     </div>
    </>
   );

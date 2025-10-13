@@ -7,3 +7,4 @@ const userSchema=new mongoose.Schema({
     contactNo:Number
 })
 const usermodel=new mongoose.model('usermodel',userSchema)
+export default usermodel;
