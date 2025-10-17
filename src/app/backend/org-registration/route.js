@@ -3,7 +3,7 @@ import mongodb from 'mongodb'
 import orgmodel from '../organizationSchema/org-schema';
 import { NextResponse } from 'next/server';
 export async function POST(request) {
-    mongodb.connect(process.env.MONGODB_URL||'mongodb://localhost:27017/').then(()=>{console.log('Connected to MongoDB')}).catch((e)=>{console.log('Error connecting to MongoDB'+e)})
+    mongodb.connect('mongodb+srv://aakarshm826:akm@cluster0.easd3uo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0').then(()=>{console.log('Connected to MongoDB')}).catch((e)=>{console.log('Error connecting to MongoDB'+e)})
     const res = await request.json();
     console.log(res);
     const {orgname, email, contact, licenseNum, doe} = res;
@@ -16,7 +16,8 @@ export async function POST(request) {
     })
     // Here, you would typically add code to save the organization data to a database.
     // For demonstration purposes, we'll just return a success message.
-    await organization.save().then(()=>{NextResponse.json({ message: 'Organization registered successfully', organization: { orgname, email, contact, licenseNum, doe } }, {
+    await organization.save();
+    return NextResponse.json({ message: 'Organization registered successfully', organization: { orgname, email, contact, licenseNum, doe } }, {
         status: 200,
-    })}).catch((e)=>{NextResponse.json({message:'Error'+e,status:500})})
+    }).catch((e)=>{NextResponse.json({message:'Error'+e,status:500})})
 }

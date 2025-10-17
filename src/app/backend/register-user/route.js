@@ -2,7 +2,10 @@
 import mongodb from 'mongodb'
 import { NextResponse } from "next/server";
 import usermodel from '../UserSchema/user-schema'
+import mongoose from 'mongoose';
 export async function POST(request) {
+    mongoose.connect('mongodb+srv://aakarshm826:akm@cluster0.easd3uo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0').then(()=>{console.log("Database connected successfully");
+    }).catch((e)=>{console.log("Error in connecting to database "+e)});
     const res = await request.json();
     console.log(res);
     const {username, email, contact, aadharNum, dob} = res;
@@ -13,7 +16,8 @@ export async function POST(request) {
         aadharNum:aadharNum,
         dob:dob
     })
-    await user.save().NextResponse.json({ message: 'User registered successfully', user: { username, email, contact, aadharNum, dob } }, {
+    await user.save();
+     return NextResponse.json({ message: 'Organization registered successfully', organization: { orgname, email, contact, licenseNum, doe } }, {
         status: 200,
     }).catch((e)=>{NextResponse.json({message:'Error'+e,status:500})})
 }

@@ -31,7 +31,7 @@ const [password, setPassword] = useState("")
             <input type="password" name="password" id="password" className="field" placeholder='Enter the password' value={password} onChange={(e)=>{setPassword(e.target.value)}} />
           </div>
           <button>Login</button>
-          <Link style={{color:'blue'}} href="/user-register">New User? Register Here</Link>
+          <Link style={{color:'white'}} href="/user-register">New User? Register Here</Link>
         </form>
     </div>
   )
