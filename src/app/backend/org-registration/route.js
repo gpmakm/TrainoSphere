@@ -3,7 +3,7 @@ import mongodb from 'mongodb'
 import orgmodel from '../organizationSchema/org-schema';
 import { NextResponse } from 'next/server';
 export async function POST(request) {
-    mongodb.connect('mongodb+srv://aakarshm826:akm@cluster0.easd3uo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0').then(()=>{console.log('Connected to MongoDB')}).catch((e)=>{console.log('Error connecting to MongoDB'+e)})
+    mongodb.connect(process.env.MONGODB_URI).then(()=>{console.log('Connected to MongoDB')}).catch((e)=>{console.log('Error connecting to MongoDB'+e)})
     const res = await request.json();
     console.log(res);
     const {orgname, email, contact, licenseNum, doe} = res;

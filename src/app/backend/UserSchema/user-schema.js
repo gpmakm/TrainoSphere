@@ -6,5 +6,5 @@ const userSchema=new mongoose.Schema({
     dob:String,
     contactNo:Number
 })
-const usermodel=new mongoose.model('usermodel',userSchema)
+const usermodel = mongoose.models.usermodel || mongoose.model("usermodel", userSchema);
 export default usermodel;

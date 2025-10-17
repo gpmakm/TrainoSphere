@@ -6,5 +6,5 @@ const orgSchema=new mongoose.Schema({
     doe:String,
     contactNo:Number
 })
-const orgmodel=new mongoose.model('orgmodel',orgSchema)
+const orgmodel= mongoose.model('orgmodel',orgSchema)
 export default orgmodel;

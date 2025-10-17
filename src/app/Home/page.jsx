@@ -1,5 +1,5 @@
 import React from 'react'
-
+import dm from '../components/Trainings.json'
 const page = () => {
   return (
     <div className='container'>

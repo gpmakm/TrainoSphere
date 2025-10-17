@@ -1,0 +1,362 @@
+
+  [
+    {
+      "topic": "Earthquake Safety and Preparedness",
+      "subtopics": [
+        {
+          "title": "Causes and Effects of Earthquakes",
+          "content": "Earthquakes are caused by the sudden movement of tectonic plates, which releases energy in the form of seismic waves. Effects include ground shaking, landslides, liquefaction, and tsunamis.",
+          "key_points": [
+            "Tectonic plate movement is the primary cause",
+            "Effects: Ground shaking, landslides, liquefaction, tsunamis",
+            "Causes widespread structural damage and loss of life"
+          ],
+          "precautions": [
+            "Identify safe spots in your home/workplace",
+            "Anchor heavy furniture and appliances",
+            "Keep emergency kit accessible"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Safety Measures During and After an Earthquake",
+          "content": "During: Drop, Cover, and Hold On. Stay away from glass and heavy objects. If outdoors, move to an open area. After: Check for injuries and structural damage, turn off utilities if needed, and be prepared for aftershocks.",
+          "key_points": [
+            "During: Drop, Cover, Hold On (indoors)",
+            "After: Check for hazards (gas leaks, damage), expect aftershocks",
+            "Follow evacuation orders if necessary"
+          ],
+          "precautions": [
+            "DO NOT use elevators",
+            "Stay off the phone except for emergencies",
+            "Wear sturdy shoes to protect feet from debris"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Structural Safety and Retrofitting of Buildings",
+          "content": "Structural safety involves following proper seismic building codes during construction. Retrofitting is modifying existing structures to make them more resistant to earthquake forces, using techniques like bracing and shear walls.",
+          "key_points": [
+            "New buildings must follow seismic codes",
+            "Retrofitting strengthens older structures",
+            "Increases survival chances of the building's occupants"
+          ],
+          "precautions": [
+            "Consult structural engineers for advice",
+            "Ensure building materials meet quality standards"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Community Drills and Evacuation Planning",
+          "content": "Regular community-wide drills (e.g., 'ShakeOut') are essential for practicing 'Drop, Cover, and Hold On' and knowing evacuation routes to designated assembly points. Planning involves identifying safe zones and establishing communication chains.",
+          "key_points": [
+            "Drills improve muscle memory for action",
+            "Evacuation plans identify safe routes and assembly points",
+            "Clear communication is vital for community safety"
+          ],
+          "precautions": [
+            "Participate in all drills seriously",
+            "Know at least two evacuation routes",
+            "Help vulnerable people during evacuation"
+          ],
+          "points": 4
+        }
+      ]
+    },
+    {
+      "topic": "Flood Safety and Preparedness",
+      "subtopics": [
+        {
+          "title": "Flood Causes and Forecasting Methods",
+          "content": "Causes include heavy rainfall, overflowing rivers, storm surges (coastal flooding), and dam failures. Forecasting uses weather models, historical data, river level monitoring, and satellite imagery to predict flood severity and timing.",
+          "key_points": [
+            "Causes: Heavy rain, river overflow, storm surge",
+            "Forecasting uses weather models and water level monitoring",
+            "Timely prediction is crucial for early warnings"
+          ],
+          "precautions": [
+            "Do not build homes in flood-prone areas",
+            "Be aware of local flood risks and alerts"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Early Warning Systems and Evacuation Routes",
+          "content": "Early warning systems (EWS) include sirens, public broadcasts, and text alerts. Communities must pre-determine and clearly mark safe, elevated evacuation routes to ensure people can move out of danger quickly.",
+          "key_points": [
+            "EWS provide time for safe evacuation",
+            "Evacuation routes must be known and clearly marked",
+            "Act immediately upon receiving a warning"
+          ],
+          "precautions": [
+            "DO NOT wait for mandatory orders to evacuate",
+            "NEVER drive or walk through floodwaters ('Turn Around, Don't Drown')"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Post-Flood Sanitation and Health Precautions",
+          "content": "Floodwaters are often contaminated (sewage, chemicals). Precautions include boiling/purifying water, washing hands frequently, wearing protective gear (gloves/boots) during cleanup, and disposing of contaminated items safely to prevent waterborne diseases.",
+          "key_points": [
+            "Floodwaters are highly contaminated",
+            "Strict water purification needed (boiling/chlorination)",
+            "Focus on preventing waterborne and vector-borne diseases"
+          ],
+          "precautions": [
+            "Do not consume unpurified water",
+            "Clean and disinfect all flooded surfaces",
+            "Monitor for snake and insect infestation"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Rescue and Relief Operations Overview",
+          "content": "Rescue involves saving trapped people using boats, helicopters, and specialized teams (like NDRF). Relief involves providing immediate aid: food, clean water, shelter, medical aid, and clothing to affected populations in temporary camps.",
+          "key_points": [
+            "Rescue: Prioritizing vulnerable and trapped individuals",
+            "Relief: Providing basic necessities (food, water, shelter)",
+            "Coordination between government, NGOs, and volunteers is key"
+          ],
+          "precautions": [
+            "Cooperate with rescue teams",
+            "Donate responsibly (only needed items)",
+            "NEVER hinder rescue operations"
+          ],
+          "points": 4
+        }
+      ]
+    },
+    {
+      "topic": "Fire Safety and Prevention",
+      "subtopics": [
+        {
+          "title": "Types of Fire and Extinguishers",
+          "content": "Fires are classified based on the fuel source: Class A (solids/wood/paper), Class B (flammable liquids/petrol), Class C (flammable gases), Class D (combustible metals), Class K/F (cooking oils/fats). Different fire classes require specific types of extinguishers (e.g., Water, Foam, Dry Powder, CO2).",
+          "key_points": [
+            "Fire classes based on fuel type (A, B, C, D, K/F)",
+            "Matching extinguisher type to fire class is critical",
+            "Using the wrong extinguisher can worsen the fire or be dangerous"
+          ],
+          "precautions": [
+            "Ensure extinguishers are regularly maintained",
+            "Know the class rating of your workplace/home extinguishers"
+          ],
+          "points": 5
+        },
+        {
+          "title": "How to Use a Fire Extinguisher (PASS method)",
+          "content": "The PASS method is a simple mnemonic: *Pull the pin, **Aim at the base of the fire, **Squeeze the handle, **S*weep from side to side. Only attempt to fight small, contained fires; otherwise, evacuate immediately.",
+          "key_points": [
+            "P: Pull the Pin (releases the locking mechanism)",
+            "A: Aim at the Base (focus on the fuel source, not the flames)",
+            "S: Squeeze the Handle (releases the agent)",
+            "S: Sweep side-to-side (to cover the fire area)"
+          ],
+          "precautions": [
+            "Ensure you have a clear escape path behind you",
+            "DO NOT fight large, rapidly spreading fires"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Emergency Exits and Assembly Points",
+          "content": "Emergency exits must be clearly marked, unobstructed, and well-lit. Assembly points are designated safe areas outside the building where people gather after evacuation to be accounted for. Everyone must know the primary and secondary exits.",
+          "key_points": [
+            "Exits must be clear and accessible",
+            "Assembly points are for headcounts and safety",
+            "Know two ways out of every room/area"
+          ],
+          "precautions": [
+            "Never block emergency exits or stairwells",
+            "Familiarize yourself with the nearest assembly point"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Fire Prevention in Residential and Workplace Areas",
+          "content": "Prevention includes regularly checking electrical wiring, not overloading sockets, safely storing flammable materials, installing smoke detectors, and practicing good housekeeping (removing clutter).",
+          "key_points": [
+            "Regular electrical safety checks",
+            "Safe storage of flammable/combustible materials",
+            "Functioning smoke detectors and alarms are essential"
+          ],
+          "precautions": [
+            "Turn off appliances when not in use",
+            "Never leave cooking unattended",
+            "Dispose of smoking materials safely"
+          ],
+          "points": 4
+        }
+      ]
+    },
+    {
+      "topic": "Cyclone/Storm Safety",
+      "subtopics": [
+        {
+          "title": "Safety During Heavy Winds and Storms",
+          "content": "The primary rule is to *Stay indoors during heavy winds* and only venture out when authorities declare it safe. Secure loose items outside the house to prevent them from becoming dangerous projectiles.",
+          "key_points": [
+            "Stay indoors and away from windows",
+            "Secure/bring in all outdoor loose objects",
+            "Listen to official weather bulletins"
+          ],
+          "precautions": [
+            "Stay away from coastal areas and flood-prone zones",
+            "Tie down boats and secure vehicles"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Preparation of Emergency Supplies",
+          "content": "*Store food, water, and medicines for at least 3 days* in an easily accessible emergency kit. Also include a battery-powered radio, flashlight, first-aid kit, and copies of important documents.",
+          "key_points": [
+            "Minimum 3 days' worth of supplies",
+            "Include non-perishable food and potable water",
+            "Keep important documents in a waterproof bag"
+          ],
+          "precautions": [
+            "Charge all mobile devices and backup batteries",
+            "Fill your car's fuel tank"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Protection from Structural Hazards",
+          "content": "*Avoid standing near glass windows during storms* as they can shatter due to wind or flying debris. Move to an interior room, closet, or hallway on the lowest floor.",
+          "key_points": [
+            "Windows are a major hazard during high winds",
+            "Move to the safest, most central part of the house",
+            "Protect your head and body with a mattress or table"
+          ],
+          "precautions": [
+            "Close all interior doors and secure exterior doors/shutters",
+            "Turn off main power and gas supply if flooding is possible"
+          ],
+          "points": 4
+        }
+      ]
+    },
+    {
+      "topic": "Industrial and Chemical Disaster Management",
+      "subtopics": [
+        {
+          "title": "Understanding Industrial Hazards",
+          "content": "Industrial hazards involve the potential for accidents like explosions, fires, toxic gas releases, or chemical spills due to material processing, storage, or transport. Understanding the Material Safety Data Sheet (MSDS) is essential.",
+          "key_points": [
+            "Hazards include explosion, fire, and toxic release",
+            "Identify and assess risks (e.g., flammability, toxicity)",
+            "MSDS provides crucial safety and hazard information"
+          ],
+          "precautions": [
+            "Regularly inspect machinery and storage areas",
+            "Ensure proper ventilation in all industrial settings"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Emergency Procedures for Chemical Leaks",
+          "content": "Procedures include activating the alarm, containing the leak if safe to do so, isolating the area, evacuating non-essential personnel, and calling specialized emergency response teams. If instructed, 'Shelter-in-Place' is often safer than evacuation.",
+          "key_points": [
+            "Immediate alarm activation and containment",
+            "Isolation and evacuation of non-essential personnel",
+            "Follow 'Shelter-in-Place' instructions if given"
+          ],
+          "precautions": [
+            "Know the location of spill kits and emergency shutoffs",
+            "NEVER enter a contaminated area without proper PPE"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Use of PPE (Personal Protective Equipment)",
+          "content": "PPE includes specialized clothing, helmets, gloves, eye protection, and respiratory protection (e.g., respirators, gas masks). It is designed to minimize exposure to physical, chemical, and biological hazards.",
+          "key_points": [
+            "PPE protects against specific industrial hazards",
+            "Requires proper fit and training for effective use",
+            "Must be inspected and maintained regularly"
+          ],
+          "precautions": [
+            "Use the correct type of PPE for the specific chemical/hazard",
+            "Check for damage before every use"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Decontamination and First-Aid for Chemical Exposure",
+          "content": "Decontamination often involves removing contaminated clothing and flushing exposed skin/eyes with large amounts of water. First-aid procedures depend on the chemical but always involve seeking immediate medical attention after initial life-saving measures.",
+          "key_points": [
+            "Immediate removal of contaminated items",
+            "Flush exposure areas with water (eyewash/safety shower)",
+            "Seek professional medical help quickly"
+          ],
+          "precautions": [
+            "Know the location of safety showers and eyewash stations",
+            "Have an MSDS readily available for medical personnel"
+          ],
+          "points": 5
+        }
+      ]
+    },
+    {
+      "topic": "Practical Drills and Evaluation",
+      "subtopics": [
+        {
+          "title": "Practical Drills for Earthquake, Fire, and Flood",
+          "content": "Conducting realistic, scenario-based drills for multiple hazards (e.g., 'Drop, Cover, Hold On' for earthquake; using the PASS method for fire; mock evacuation for flood) is the best way to practice procedures and identify weaknesses.",
+          "key_points": [
+            "Drills build muscle memory and response speed",
+            "Must cover a variety of major hazards",
+            "Scenarios should be as realistic as possible"
+          ],
+          "precautions": [
+            "Ensure safety observers are present to prevent accidents",
+            "Clearly communicate the start and end of the drill"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Use of Rescue Tools and First-Aid Kits",
+          "content": "Training includes familiarization with basic rescue tools (e.g., ropes, crowbars, cutting tools) and hands-on practice with the contents of a standard first-aid kit (e.g., bandaging, CPR, handling fractures).",
+          "key_points": [
+            "Know the function of common rescue tools",
+            "Practice basic first-aid and CPR techniques",
+            "Ensure first-aid kits are fully stocked and accessible"
+          ],
+          "precautions": [
+            "Only use rescue tools if properly trained",
+            "Replace used/expired items in the first-aid kit immediately"
+          ],
+          "points": 5
+        },
+        {
+          "title": "Performance Evaluation and Feedback",
+          "content": "After each drill, conduct a debriefing session. Evaluation should focus on speed of response, adherence to safety protocols, use of communication, and efficiency of evacuation. Feedback should be constructive and targeted at improving next time.",
+          "key_points": [
+            "Debriefing is essential for learning",
+            "Evaluation criteria: speed, protocol adherence, communication",
+            "Feedback must be clear and actionable"
+          ],
+          "precautions": [
+            "Ensure all participants' safety concerns are addressed",
+            "Document lessons learned and revise plans accordingly"
+          ],
+          "points": 4
+        },
+        {
+          "title": "Distribution of Participation Certificates",
+          "content": "Formal recognition in the form of certificates acknowledges the time and effort participants put into the training and drills, reinforcing the importance of preparedness and promoting a culture of safety.",
+          "key_points": [
+            "Recognizes effort and commitment",
+            "Reinforces the value of disaster preparedness",
+            "Encourages future participation"
+          ],
+          "precautions": [
+            "Ensure records of attendance are accurate",
+            "Distribute certificates promptly after evaluation"
+          ],
+          "points": 3
+        }
+      ]
+    }
+  ]

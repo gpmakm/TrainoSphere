@@ -1,6 +1,8 @@
 import React from 'react'
 import training from '../components/quiz1-answers.json'
-// import em from '.../public/em.jpeg'
+import em from '../components/em.jpg'
+import floodm from '../components/floodm.jpg'
+
 import WorkshopCard from '../components/WorshopCard'
 const page = () => {
   return (
@@ -16,11 +18,13 @@ const page = () => {
           training.modules.map((content,index)=>{
             return(
               <div key={index} style={{border:'1px solid white',margin:'10px',padding:'10px'}}>
+                <a href="/get-training-notes">
                 <h4 style={{padding:5}}><u>{content.title}</u></h4>
                 <p>{content.topics.join(", ")}</p>
                 <div> <p><b>Precautions</b>:</p>
                   <p style={{border:'1px solid white',padding:7}}>{content.precautions}  </p>
                 </div>
+                </a>
               </div>
             )
           })
@@ -28,12 +32,12 @@ const page = () => {
         </div>
         <div className="workshops">
   <WorkshopCard
-    source="/flood.jpg"
+    source={floodm}
     CardTitle="Flood Management Workshop"
     CardDescription="Learn flood preparedness, rescue techniques, and resource management."
   />
   <WorkshopCard
-    source="/earthquake.jpg"
+    source={em}
     CardTitle="Earthquake Response Training"
     CardDescription="Understand seismic safety, evacuation plans, and post-disaster relief coordination."
   />

@@ -3,8 +3,8 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import { useState } from "react";
-import Card from "./components/card";
-import Card frpm
+
+import Card from '../app/components/card'
 
 export default function Home() {
   const [name, setname] = useState();
