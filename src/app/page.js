@@ -29,7 +29,7 @@ export default function Home() {
  <div className='container'>
       <div id='Welcome' style={{display:'flex',flexDirection:'column', width:'auto',height:'auto', padding:8,margin:8, color:'white', textAlign:'center'}}>
         <div><p>Welcome to</p></div>
-        <div><h1 id="title">TrainoSphere</h1></div>
+        <div><h1 id="title">ApdaMitra</h1></div>
         <div>the training platform to teach you managing disasters</div>
       </div>
      
