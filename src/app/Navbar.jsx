@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div>
         <nav>
-           <span style={{float:'right'}}> TrainoSphere</span>
+           <span style={{float:'right'}}>ApdaMitra </span>
             <ul style={{display:'flex', flexDirection:'row', float:'left'}}>
 
                 <li> <a href="/">Home</a> </li>
